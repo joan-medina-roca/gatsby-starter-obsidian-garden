@@ -7,6 +7,8 @@ tags:
 
 ## Summary 2
 
+This is a test for the underliying possibilities.
+
 “OKR” stands for “Objectives and Key Results.” OKRs are an effective goal-setting and leadership tool for communicating what you want to accomplish and what milestones you’ll need to meet in order to accomplish it. OKRs are used by some of the world’s leading organizations to set and enact their strategies. In this article we’ll define an OKR, look at how they’re used and provide some examples of OKRs.
 
 OKRs stand for “Objectives and Key Results.” It is a collaborative goal-setting methodology used by teams and individuals to set challenging, ambitious goals with measurable results. OKRs are how you track progress, create alignment, and encourage engagement around measurable goals.
