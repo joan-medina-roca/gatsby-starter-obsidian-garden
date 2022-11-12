@@ -8,7 +8,7 @@ export default function Footer() {
   return (
     <footer className="width-full mt-10">
       <Container>
-        <div className="border-t color-border-slate-200 flex flex-col-reverse md:flex-row gap-6 py-6 items-center">
+        <div className="border-t color-border-slate-200 flex flex-col-reverse md:flex-row gap-6 py-6 items-center justify-between">
           <div className="flex gap-4 items-center place-content-center">
             <GatsbyLink to="https://juxtdesign.cc">
               <img src={Logo} alt="Logo" className="w-10 hover:opacity-9" />
