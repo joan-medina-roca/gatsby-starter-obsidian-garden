@@ -10,7 +10,7 @@ const TagList = ({}) => {
   return (
     <Layout title={`Tags | ${SITE_TITLE}`}>
       <div className="my-2 py-4 border-b border-slate-200">
-        <h1 className="mr-2 text-3xl md:text-6xl font-black">Topics</h1>
+        <h1 className="mr-2 text-3xl md:text-6xl font-black">Temes</h1>
       </div>
       <ul className="list-disc mt-4">
         {tags.map((tag) => (

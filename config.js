@@ -16,8 +16,8 @@ module.exports = {
       path: "/about/",
     },
     {
-      label: "Topics",
-      path: "/topics/",
+      label: "Temes",
+      path: "/temes/",
     },
   ],
   FOOTER: [
