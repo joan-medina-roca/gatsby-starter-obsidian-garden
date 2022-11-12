@@ -7,11 +7,13 @@ export default function Header() {
   return (
     <header>
       <Container>
-        <nav className="flex justify-between py-6 md:py-10">
-          <Link to="/" className="text-black">
+        <nav className="flex justify-between py-6 md:py-10 flex-col sm:flex-row items-center">
+          <div className="flex items-center">
+            <Link to="/" className="text-black">
             JMR - Blog
-          </Link>
-          <ul className="list-style-none grid grid-flow-col auto-cols-max gap-6 items-center">
+            </Link>
+          </div>
+          <ul className="list-style-none grid grid-flow-col auto-cols-max gap-6 items-center pt-6 sm:pt-0">
             {MENU.map((item) => (
               <li key={item.label}>
                 <Link to={item.path}>{item.label}</Link>
