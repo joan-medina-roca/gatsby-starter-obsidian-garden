@@ -3,7 +3,7 @@ tags:
   - tutorial
   - obsidian
   - OKR
-stage: "evergreen"
+stage: "etiqueta"
 ---
 
 # Getting Started (New Vault)

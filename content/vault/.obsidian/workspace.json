@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OKR.md",
+                "file": "Getting Started.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OKR.md",
+                "file": "Getting Started.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "0780a079bcde2f58",
   "lastOpenFiles": [
-    "Changelog.md",
+    "Premature Abstraction.md",
     "Getting Started.md",
+    "Markdown.md",
+    "OKR.md",
     "Design OKR.md",
+    "Changelog.md",
     "Digital Garden.md",
     "Frustrating UX Pattern.md",
     "My Obsidian Practices.md",
-    "Markdown.md",
-    "2021 Q4 Reflection & Progress.md",
-    "2021 Q3 Reflection & Progress.md",
-    "Progress Summarization.md"
+    "2021 Q4 Reflection & Progress.md"
   ]
 }
